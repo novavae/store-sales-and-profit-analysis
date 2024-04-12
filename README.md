@@ -1,5 +1,5 @@
 <img src="https://i.pinimg.com/564x/9c/c2/1f/9cc21f7642e5c96eb986c283621a026f.jpg"
-    style="width:500px; float: right; margin: 0 40px 40px 40px;"></img>
+    style="width:450px; float: right; margin: 0 40px 40px 40px;"></img>
 
 # Store Sales & Profit Analysis
 Analysis by: `Nova Dwi Lestari`
